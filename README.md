@@ -18,3 +18,9 @@ simple project to learn how to  work with database.
     <!--<a href="https://github.com/arash-mehrzadi" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/alwinw/alwinw?label=hits&style=flat-square"></a>-->
     <a href="https://github.com/arash-mehrzadi/alwinw" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/arash-mehrzadi/Inventory-Application-WFA?label=updated&style=flat-square"></a>
 </p>
+
+# System Requirements
+
+* Target framework .NET Framework 4.5.2
+* Target Built Platform :32/64 Bit
+* sqlserver localdb 2016
